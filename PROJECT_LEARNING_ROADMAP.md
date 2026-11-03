@@ -27,5 +27,5 @@ Current state → XOR(q[3], q[0]) + concatenation → next_state → reset / ena
 - make sim reproduces the tests; .gitignore excludes build/.
 - docs/simulation.png is an actual GTKWave screenshot; docs/vcd-reset-hold.svg is a plot of actual VCD data.
 - Additional pause/resume, simultaneous reset/enable, and off-edge monitoring checks remain optional. Known coverage limits are retained.
-- Repository setup and publication are the current delivery step.
+- Published at https://github.com/yongyizhang41-creator/4bit-lfsr-verilog. Local main tracks origin/main.
 - [Core] A formal independent understanding check has not been completed. Reviewing code does not by itself establish mastery.

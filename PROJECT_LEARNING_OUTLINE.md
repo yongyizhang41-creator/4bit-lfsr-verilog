@@ -101,6 +101,6 @@ Completion requires successful compilation, passing simulation, actual VCD outpu
 
 ## 7. Current position
 
-Units 1–9 have been implemented and reviewed through simulation and verification review. Build automation, documentation, and an actual GTKWave screenshot are present. Additional coverage is deferred. Independent understanding checks remain pending; GitHub publication is the current delivery step.
+Units 1–9 have been implemented and reviewed through simulation and verification review. Build automation, documentation, and an actual GTKWave screenshot are present. Additional coverage is deferred. Independent understanding checks remain pending; The project is published on GitHub; local main tracks origin/main.
 
 See PROJECT_LEARNING_ROADMAP.md for progress.
