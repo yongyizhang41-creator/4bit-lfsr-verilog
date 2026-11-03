@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="330" viewBox="0 0 1120 330">
+<rect width="1120" height="330" fill="#fff"/>
+<g font-family="monospace" font-size="14" fill="#17212b">
+<text x="20" y="25">Actual Icarus VCD traces: reset and hold (0–80 ns)</text>
+<path d="M130 45 V285" stroke="#e0e4e8"/><text x="124" y="310">0</text>
+<path d="M190 45 V285" stroke="#e0e4e8"/><text x="184" y="310">5</text>
+<path d="M250 45 V285" stroke="#e0e4e8"/><text x="244" y="310">10</text>
+<path d="M310 45 V285" stroke="#e0e4e8"/><text x="304" y="310">15</text>
+<path d="M370 45 V285" stroke="#e0e4e8"/><text x="364" y="310">20</text>
+<path d="M430 45 V285" stroke="#e0e4e8"/><text x="424" y="310">25</text>
+<path d="M490 45 V285" stroke="#e0e4e8"/><text x="484" y="310">30</text>
+<path d="M550 45 V285" stroke="#e0e4e8"/><text x="544" y="310">35</text>
+<path d="M610 45 V285" stroke="#e0e4e8"/><text x="604" y="310">40</text>
+<path d="M670 45 V285" stroke="#e0e4e8"/><text x="664" y="310">45</text>
+<path d="M730 45 V285" stroke="#e0e4e8"/><text x="724" y="310">50</text>
+<path d="M790 45 V285" stroke="#e0e4e8"/><text x="784" y="310">55</text>
+<path d="M850 45 V285" stroke="#e0e4e8"/><text x="844" y="310">60</text>
+<path d="M910 45 V285" stroke="#e0e4e8"/><text x="904" y="310">65</text>
+<path d="M970 45 V285" stroke="#e0e4e8"/><text x="964" y="310">70</text>
+<path d="M1030 45 V285" stroke="#e0e4e8"/><text x="1024" y="310">75</text>
+<path d="M1090 45 V285" stroke="#e0e4e8"/><text x="1084" y="310">80</text>
+<text x="15" y="80">clk</text>
+<path d="M130.0 87 H190.0" stroke="#235fa4"/>
+<path d="M190.0 63 H250.0" stroke="#235fa4"/>
+<path d="M190.0 87 V63" stroke="#235fa4"/>
+<path d="M250.0 87 H310.0" stroke="#235fa4"/>
+<path d="M250.0 63 V87" stroke="#235fa4"/>
+<path d="M310.0 63 H370.0" stroke="#235fa4"/>
+<path d="M310.0 87 V63" stroke="#235fa4"/>
+<path d="M370.0 87 H430.0" stroke="#235fa4"/>
+<path d="M370.0 63 V87" stroke="#235fa4"/>
+<path d="M430.0 63 H490.0" stroke="#235fa4"/>
+<path d="M430.0 87 V63" stroke="#235fa4"/>
+<path d="M490.0 87 H550.0" stroke="#235fa4"/>
+<path d="M490.0 63 V87" stroke="#235fa4"/>
+<path d="M550.0 63 H610.0" stroke="#235fa4"/>
+<path d="M550.0 87 V63" stroke="#235fa4"/>
+<path d="M610.0 87 H670.0" stroke="#235fa4"/>
+<path d="M610.0 63 V87" stroke="#235fa4"/>
+<path d="M670.0 63 H730.0" stroke="#235fa4"/>
+<path d="M670.0 87 V63" stroke="#235fa4"/>
+<path d="M730.0 87 H790.0" stroke="#235fa4"/>
+<path d="M730.0 63 V87" stroke="#235fa4"/>
+<path d="M790.0 63 H850.0" stroke="#235fa4"/>
+<path d="M790.0 87 V63" stroke="#235fa4"/>
+<path d="M850.0 87 H910.0" stroke="#235fa4"/>
+<path d="M850.0 63 V87" stroke="#235fa4"/>
+<path d="M910.0 63 H970.0" stroke="#235fa4"/>
+<path d="M910.0 87 V63" stroke="#235fa4"/>
+<path d="M970.0 87 H1030.0" stroke="#235fa4"/>
+<path d="M970.0 63 V87" stroke="#235fa4"/>
+<path d="M1030.0 63 H1090.0" stroke="#235fa4"/>
+<path d="M1030.0 87 V63" stroke="#235fa4"/>
+<text x="15" y="140">rst</text>
+<path d="M130.0 147 H154.0" stroke="#235fa4"/>
+<path d="M154.0 123 H250.0" stroke="#235fa4"/>
+<path d="M154.0 147 V123" stroke="#235fa4"/>
+<path d="M250.0 147 H850.0" stroke="#235fa4"/>
+<path d="M250.0 123 V147" stroke="#235fa4"/>
+<path d="M850.0 123 H970.0" stroke="#235fa4"/>
+<path d="M850.0 147 V123" stroke="#235fa4"/>
+<path d="M970.0 147 H1090" stroke="#235fa4"/>
+<path d="M970.0 123 V147" stroke="#235fa4"/>
+<text x="15" y="200">enable</text>
+<path d="M130.0 207 H250.0" stroke="#235fa4"/>
+<path d="M250.0 183 H490.0" stroke="#235fa4"/>
+<path d="M250.0 207 V183" stroke="#235fa4"/>
+<path d="M490.0 207 H970.0" stroke="#235fa4"/>
+<path d="M490.0 183 V207" stroke="#235fa4"/>
+<path d="M970.0 183 H1090" stroke="#235fa4"/>
+<path d="M970.0 207 V183" stroke="#235fa4"/>
+<text x="15" y="260">lfsr_out</text>
+<path d="M130.0 243 H190.0 M130.0 267 H190.0 M130.0 243 V267" fill="none" stroke="#156c46"/>
+<text x="160.0" y="260" text-anchor="middle">xxxx</text>
+<path d="M190.0 243 H310.0 M190.0 267 H310.0 M190.0 243 V267" fill="none" stroke="#156c46"/>
+<text x="250.0" y="260" text-anchor="middle">0001</text>
+<path d="M310.0 243 H430.0 M310.0 267 H430.0 M310.0 243 V267" fill="none" stroke="#156c46"/>
+<text x="370.0" y="260" text-anchor="middle">0011</text>
+<path d="M430.0 243 H910.0 M430.0 267 H910.0 M430.0 243 V267" fill="none" stroke="#156c46"/>
+<text x="670.0" y="260" text-anchor="middle">0111</text>
+<path d="M910.0 243 H1030.0 M910.0 267 H1030.0 M910.0 243 V267" fill="none" stroke="#156c46"/>
+<text x="970.0" y="260" text-anchor="middle">0001</text>
+<path d="M1030.0 243 H1090 M1030.0 267 H1090 M1030.0 243 V267" fill="none" stroke="#156c46"/>
+<text x="1060.0" y="260" text-anchor="middle">0011</text>
+<text x="1060" y="328">ns</text></g></svg>
